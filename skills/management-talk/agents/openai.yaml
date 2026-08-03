@@ -1,0 +1,4 @@
+interface:
+  display_name: "Management Talk"
+  short_description: "แปลงอัปเดตวิศวกรรมสำหรับ leadership"
+  default_prompt: "Use $management-talk to rewrite this engineering update for leadership in the requested channel."

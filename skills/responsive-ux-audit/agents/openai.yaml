@@ -1,0 +1,4 @@
+interface:
+  display_name: "Responsive UX Audit"
+  short_description: "ตรวจ responsive UX และ regression หลาย viewport"
+  default_prompt: "Use $responsive-ux-audit to audit and improve this interface across representative viewports."

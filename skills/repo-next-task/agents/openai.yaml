@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repository Next Task"
+  short_description: "ค้นหาและจัดลำดับงานถัดไปจาก repository"
+  default_prompt: "Use $repo-next-task to inspect this repository and recommend the most valuable next task."

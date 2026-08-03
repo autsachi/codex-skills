@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Deliver Work"
+  short_description: "ตรวจ commit และ push งานอย่างปลอดภัย"
+  default_prompt: "Use $git-deliver-work to verify, commit, or push the current work safely."

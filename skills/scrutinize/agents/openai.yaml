@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrutinize"
+  short_description: "ตรวจแผน PR และ code path อย่างเป็นระบบ"
+  default_prompt: "Use $scrutinize to review this plan or code change end-to-end and report evidence-backed findings."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Post-mortem"
+  short_description: "สรุป root cause, fix และ validation"
+  default_prompt: "Use $post-mortem to document the verified root cause, fix, and validation for this resolved bug."
