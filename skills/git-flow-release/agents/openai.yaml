@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Flow Release"
+  short_description: "Prepare and publish safe Git Flow releases"
+  default_prompt: "Use $git-flow-release to prepare and publish a safe repository release."
